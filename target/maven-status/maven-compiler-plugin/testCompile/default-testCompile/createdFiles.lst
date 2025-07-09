@@ -1,0 +1,7 @@
+com/dispatch/dispatchloadbalancer/controller/DispatchIntegrationTest.class
+com/dispatch/dispatchloadbalancer/controller/OrderControllerTest.class
+com/dispatch/dispatchloadbalancer/service/DispatchServiceTest.class
+com/dispatch/dispatchloadbalancer/DispatchLoadBalancerApplicationTests.class
+com/dispatch/dispatchloadbalancer/service/OrderServiceTest.class
+com/dispatch/dispatchloadbalancer/service/VehicleServiceTest.class
+com/dispatch/dispatchloadbalancer/controller/DispatchControllerTest.class
